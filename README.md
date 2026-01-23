@@ -22,24 +22,24 @@
 
 | Project | Description | Tech Stack | Updated |
 |---------|-------------|------------|---------|
-| **<span style="color: #059669">gcp-cloud-tools</span>** | GCP cloud automation utilities | <span style="color: #6366f1">Shell</span> | Jan 2026 |
-| **<span style="color: #059669">aws-cloud-tools</span>** | AWS infrastructure tooling | <span style="color: #6366f1">Shell</span> | Jan 2026 |
-| **<span style="color: #059669">azure-cloud-tools</span>** | Azure deployment scripts | <span style="color: #6366f1">Shell</span> | May 2025 |
+| **<span style="color: #059669">[gcp-cloud-tools](https://github.com/stefanbosak/gcp-cloud-tools)</span>** | GCP cloud automation utilities | <span style="color: #6366f1">Shell</span> | Jan 2026 |
+| **<span style="color: #059669">[aws-cloud-tools](https://github.com/stefanbosak/aws-cloud-tools)</span>** | AWS infrastructure tooling | <span style="color: #6366f1">Shell</span> | Jan 2026 |
+| **<span style="color: #059669">[azure-cloud-tools](https://github.com/stefanbosak/azure-cloud-tools)</span>** | Azure deployment scripts | <span style="color: #6366f1">Shell</span> | May 2025 |
 
 ### <span style="color: #0891b2">🤖 AI & Development Tools</span>
 
 | Project | Description | Tech Stack | Updated |
 |---------|-------------|------------|---------|
-| **<span style="color: #a855f7">auggie-cli</span>** | AugmentCode Auggie CLI | <span style="color: #6366f1">Dockerfile</span> | Jan 2026 |
-| **<span style="color: #a855f7">copilot-cli</span>** | GitHub Copilot CLI tooling | <span style="color: #6366f1">Dockerfile</span> | Jan 2026 |
+| **<span style="color: #a855f7">[auggie-cli](https://github.com/stefanbosak/auggie-cli)</span>** | AugmentCode Auggie CLI | <span style="color: #6366f1">Dockerfile</span> | Jan 2026 |
+| **<span style="color: #a855f7">[copilot-cli](https://github.com/stefanbosak/copilot-cli)</span>** | GitHub Copilot CLI tooling | <span style="color: #6366f1">Dockerfile</span> | Jan 2026 |
 
 ### <span style="color: #0891b2">🔧 Infrastructure & Networking</span>
 
 | Project | Description | Tech Stack | Updated |
 |---------|-------------|------------|---------|
-| **<span style="color: #f59e0b">github-sandbox</span>** | GitHub experimentation | <span style="color: #6366f1">Shell</span> | Jan 2026 |
-| **<span style="color: #f59e0b">networking</span>** | Network tools & configs | <span style="color: #6366f1">Dockerfile</span> | Jul 2024 |
-| **<span style="color: #f59e0b">aws-cloud-sandbox</span>** | AWS testing environment | <span style="color: #6366f1">HCL/Terraform</span> | Dec 2023 |
+| **<span style="color: #f59e0b">[github-sandbox](https://github.com/stefanbosak/github-sandbox)</span>** | GitHub experimentation | <span style="color: #6366f1">Shell</span> | Jan 2026 |
+| **<span style="color: #f59e0b">[networking](https://github.com/stefanbosak/networking)</span>** | Network tools & configs | <span style="color: #6366f1">Dockerfile</span> | Jul 2024 |
+| **<span style="color: #f59e0b">[aws-cloud-sandbox](https://github.com/stefanbosak/aws-cloud-sandbox)</span>** | AWS testing environment | <span style="color: #6366f1">HCL/Terraform</span> | Dec 2023 |
 
 ---
 
