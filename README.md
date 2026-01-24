@@ -31,6 +31,7 @@
 | Project | Description | Tech Stack | Updated |
 |---------|-------------|------------|---------|
 | **<span style="color: #a855f7">[auggie-cli](https://github.com/stefanbosak/auggie-cli)</span>** | AugmentCode Auggie CLI | <span style="color: #6366f1">Dockerfile</span> | ![Updated](https://img.shields.io/github/last-commit/stefanbosak/auggie-cli?style=flat-square&color=a855f7&label=) |
+| **<span style="color: #a855f7">[gemini-cli](https://github.com/stefanbosak/gemini-cli)</span>** | Google Gemini CLI tooling | <span style="color: #6366f1">Shell</span> | ![Updated](https://img.shields.io/github/last-commit/stefanbosak/gemini-cli?style=flat-square&color=a855f7&label=) |
 | **<span style="color: #a855f7">[copilot-cli](https://github.com/stefanbosak/copilot-cli)</span>** | GitHub Copilot CLI tooling | <span style="color: #6366f1">Dockerfile</span> | ![Updated](https://img.shields.io/github/last-commit/stefanbosak/copilot-cli?style=flat-square&color=a855f7&label=) |
 
 ### <span style="color: #0891b2">🔧 Infrastructure & Networking</span>
