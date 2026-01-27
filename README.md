@@ -31,8 +31,9 @@
 | Project | Description | Tech Stack | Updated |
 |---------|-------------|------------|---------|
 | **<span style="color: #a855f7">[auggie-cli](https://github.com/stefanbosak/auggie-cli)</span>** | AugmentCode Auggie CLI | <span style="color: #6366f1">Dockerfile</span> | ![Updated](https://img.shields.io/github/last-commit/stefanbosak/auggie-cli?style=flat-square&color=a855f7&label=) |
-| **<span style="color: #a855f7">[gemini-cli](https://github.com/stefanbosak/gemini-cli)</span>** | Google Gemini CLI tooling | <span style="color: #6366f1">Shell</span> | ![Updated](https://img.shields.io/github/last-commit/stefanbosak/gemini-cli?style=flat-square&color=a855f7&label=) |
+| **<span style="color: #a855f7">[claude-cli](https://github.com/stefanbosak/claude-cli)</span>** | Anthropic Claude Code CLI tooling | <span style="color: #6366f1">Dockerfile</span> | ![Updated](https://img.shields.io/github/last-commit/stefanbosak/claude-cli?style=flat-square&color=a855f7&label=) |
 | **<span style="color: #a855f7">[copilot-cli](https://github.com/stefanbosak/copilot-cli)</span>** | GitHub Copilot CLI tooling | <span style="color: #6366f1">Dockerfile</span> | ![Updated](https://img.shields.io/github/last-commit/stefanbosak/copilot-cli?style=flat-square&color=a855f7&label=) |
+| **<span style="color: #a855f7">[gemini-cli](https://github.com/stefanbosak/gemini-cli)</span>** | Google Gemini CLI tooling | <span style="color: #6366f1">Dockerfile</span> | ![Updated](https://img.shields.io/github/last-commit/stefanbosak/gemini-cli?style=flat-square&color=a855f7&label=) |
 
 ### <span style="color: #0891b2">🔧 Infrastructure & Networking</span>
 
@@ -41,20 +42,6 @@
 | **<span style="color: #f59e0b">[github-sandbox](https://github.com/stefanbosak/github-sandbox)</span>** | GitHub experimentation | <span style="color: #6366f1">Shell</span> | ![Updated](https://img.shields.io/github/last-commit/stefanbosak/github-sandbox?style=flat-square&color=f59e0b&label=) |
 | **<span style="color: #f59e0b">[networking](https://github.com/stefanbosak/networking)</span>** | Network tools & configs | <span style="color: #6366f1">Dockerfile</span> | ![Updated](https://img.shields.io/github/last-commit/stefanbosak/networking?style=flat-square&color=f59e0b&label=) |
 | **<span style="color: #f59e0b">[aws-cloud-sandbox](https://github.com/stefanbosak/aws-cloud-sandbox)</span>** | AWS testing environment | <span style="color: #6366f1">HCL/Terraform</span> | ![Updated](https://img.shields.io/github/last-commit/stefanbosak/aws-cloud-sandbox?style=flat-square&color=f59e0b&label=) |
-
----
-
-## <span style="color: #7c3aed">🛠️ Tech Stack</span>
-
-<div align="center">
-
-| <span style="color: #059669">**Cloud Platforms**</span> | <span style="color: #0891b2">**DevOps & IaC**</span> | <span style="color: #a855f7">**Languages**</span> |
-|:---:|:---:|:---:|
-| AWS | Docker | Shell/Bash |
-| Google Cloud | Terraform (HCL) | Dockerfile |
-| Azure | CI/CD | - |
-
-</div>
 
 ---
 
