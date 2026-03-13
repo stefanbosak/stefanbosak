@@ -34,6 +34,7 @@
 | **<span style="color: #a855f7">[claude-cli](https://github.com/stefanbosak/claude-cli)</span>** | Anthropic Claude Code | <span style="color: #6366f1">Dockerfile</span> | ![Updated](https://img.shields.io/github/last-commit/stefanbosak/claude-cli?style=flat-square&color=a855f7&label=) |
 | **<span style="color: #a855f7">[copilot-cli](https://github.com/stefanbosak/copilot-cli)</span>** | GitHub Copilot | <span style="color: #6366f1">Dockerfile</span> | ![Updated](https://img.shields.io/github/last-commit/stefanbosak/copilot-cli?style=flat-square&color=a855f7&label=) |
 | **<span style="color: #a855f7">[gemini-cli](https://github.com/stefanbosak/gemini-cli)</span>** | Google Gemini | <span style="color: #6366f1">Dockerfile</span> | ![Updated](https://img.shields.io/github/last-commit/stefanbosak/gemini-cli?style=flat-square&color=a855f7&label=) |
+| **<span style="color: #a855f7">[opencode-cli](https://github.com/stefanbosak/opencode-cli)</span>** | Anomaly Innovations opencode | <span style="color: #6366f1">Dockerfile</span> | ![Updated](https://img.shields.io/github/last-commit/stefanbosak/opencode-cli?style=flat-square&color=a855f7&label=) |
 
 ### <span style="color: #0891b2">🔧 Infrastructure & Networking</span>
 
