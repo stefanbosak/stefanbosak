@@ -35,6 +35,7 @@
 | **<span style="color: #a855f7">[copilot-cli](https://github.com/stefanbosak/copilot-cli)</span>** | GitHub Copilot | <span style="color: #6366f1">Dockerfile</span> | ![Updated](https://img.shields.io/github/last-commit/stefanbosak/copilot-cli?style=flat-square&color=a855f7&label=) |
 | **<span style="color: #a855f7">[gemini-cli](https://github.com/stefanbosak/gemini-cli)</span>** | Google Gemini | <span style="color: #6366f1">Dockerfile</span> | ![Updated](https://img.shields.io/github/last-commit/stefanbosak/gemini-cli?style=flat-square&color=a855f7&label=) |
 | **<span style="color: #a855f7">[opencode-cli](https://github.com/stefanbosak/opencode-cli)</span>** | Anomaly Innovations opencode | <span style="color: #6366f1">Dockerfile</span> | ![Updated](https://img.shields.io/github/last-commit/stefanbosak/opencode-cli?style=flat-square&color=a855f7&label=) |
+| **<span style="color: #a855f7">[codex-cli](https://github.com/stefanbosak/codex-cli)</span>** | OpenAI codex | <span style="color: #6366f1">Dockerfile</span> | ![Updated](https://img.shields.io/github/last-commit/stefanbosak/codex-cli?style=flat-square&color=a855f7&label=) |
 
 ### <span style="color: #0891b2">🔧 Infrastructure & Networking</span>
 
@@ -43,6 +44,7 @@
 | **<span style="color: #f59e0b">[github-sandbox](https://github.com/stefanbosak/github-sandbox)</span>** | GitHub experimentation | <span style="color: #6366f1">Docker, Shell</span> | ![Updated](https://img.shields.io/github/last-commit/stefanbosak/github-sandbox?style=flat-square&color=f59e0b&label=) |
 | **<span style="color: #f59e0b">[networking](https://github.com/stefanbosak/networking)</span>** | Network tools & configs | <span style="color: #6366f1">Dockerfile</span> | ![Updated](https://img.shields.io/github/last-commit/stefanbosak/networking?style=flat-square&color=f59e0b&label=) |
 | **<span style="color: #f59e0b">[aws-cloud-sandbox](https://github.com/stefanbosak/aws-cloud-sandbox)</span>** | AWS sandbox environment | <span style="color: #6366f1">HCL/Terraform</span> | ![Updated](https://img.shields.io/github/last-commit/stefanbosak/aws-cloud-sandbox?style=flat-square&color=f59e0b&label=) |
+| **<span style="color: #f59e0b">[gh-scripts](https://github.com/stefanbosak/gh-scripts)</span>** | GitHub scripts | <span style="color: #6366f1">Bash</span> | ![Updated](https://img.shields.io/github/last-commit/stefanbosak/gh-scripts?style=flat-square&color=f59e0b&label=) |
 
 ---
 
